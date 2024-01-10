@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\api-reports\API.Reports\API.Application\API.Application.csproj" />
-  </ItemGroup>
+    <ProjectReference Include="..\API.Application\API.Application.csproj" />
+  </ItemGroup>  
 
 </Project>
